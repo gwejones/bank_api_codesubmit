@@ -1,0 +1,5 @@
+/api/__pycache__/*
+.ipynb_checkpoints/*
+/api/bank.db
+testing.ipynb
+
